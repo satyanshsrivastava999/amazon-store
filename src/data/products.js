@@ -36,6 +36,7 @@ export const products = [
   },
   {
     id: 6,
+    // eslint-disable-next-line no-script-url
     name: "JavaScript: The Good Parts",
     price: 499,
     image: "https://picsum.photos/200?random=6",
